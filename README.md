@@ -1,3 +1,2 @@
 # slstatus
-
-Fork of Kennys slstatus
+suckless status monitor
